@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://surki1i.github.io/about/index.html</loc>
+    
+    <lastmod>2021-02-13</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://surki1i.github.io/music/index.html</loc>
     
     <lastmod>2020-12-28</lastmod>
@@ -24,13 +31,6 @@
   
   <url>
     <loc>https://surki1i.github.io/link/index.html</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://surki1i.github.io/about/index.html</loc>
     
     <lastmod>2020-12-28</lastmod>
     
